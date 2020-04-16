@@ -37,7 +37,9 @@ vendor/bin/hh-autoload
 vendor/bin/hacktest tests/
 ```
 
-## Developing from Windows
+## Developing from a docker container
+
+A workaround when developing on a windows workstation.
 https://medium.com/@potatowagon/develop-hack-lang-projects-with-vscode-on-windows-host-with-linux-docker-container-ce70335c01a2
 
 Use docker toolbox to run a ready made image with everything all set up
